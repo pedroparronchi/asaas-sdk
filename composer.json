@@ -1,5 +1,5 @@
 {
-  "name": "codephix/asaas-sdk",
+  "name": "pedroparronchi/asaas-sdk",
   "type"       : "library",
   "description": "Asaas.com PHP API Wrapper",
   "keywords"   : ["Asaas", "API", "Payment SaaS", "Credit Card", "Boleto"],
@@ -13,7 +13,7 @@
     }
   ],
   "require": {
-    "php": "^7.2"
+    "php": "^7.0.3"
   },
   "autoload": {
     "psr-4": {
